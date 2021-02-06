@@ -1,3 +1,4 @@
+#This is function to count max number
 def max_number(list):
     number = 0
     for item in list:
